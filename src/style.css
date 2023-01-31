@@ -1,0 +1,303 @@
+body{
+   background-color:  #091E3A;
+}
+.neww{
+    background-color:  #091E3A;
+}
+.forHref{
+    color: white;
+}
+.steal{
+    background-image: url(./images/forbg.jpg);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: 100%;
+    opacity: 0.7;
+    margin-top: 0%;
+    margin-bottom: 10%;
+}
+.nested{
+    margin-left: 15px;
+}
+.fee{
+    background-color: transparent !important;
+    opacity: 0.9;
+}
+
+.types.text{
+margin-top: -80px;
+/* width: 691px; */
+height: 130px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 135%;
+padding-top: 20%;
+/* or 65px */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-left: 8%;
+
+}
+@media only screen and (max-width: 600px) {
+    
+.types{
+    font-size: 10px;
+    
+}
+.myButt{
+    margin-left: 8%;
+    margin-top: 2%;
+    padding: 13px;
+    
+   
+}
+}
+@media only screen and (min-width: 600px) {
+    
+    .types{
+        font-size: 60px;
+        
+    }
+    .myButt{
+        margin-left: 8%;
+        margin-top: 5%;
+        padding: 14px 19px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        height: 50px;
+        font-weight: 600;
+        background: linear-gradient(0deg, #F6D34E, #F6D34E), #15396B;
+        border-radius: 9px;
+        
+    }
+    .vector{
+        margin-left: 9px;
+    }
+        
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.newFor{
+    color: #AEC3E0;
+}
+.wierd{
+    background-color: #182B45 !important;
+    color: #F6D34E !important;
+    font-style: normal;
+    font-weight: 600 !important;
+    font-size: 16px;    
+    
+}
+.small{
+    width: 6.78px;
+    margin-bottom: 2px;
+}
+.new.container{
+    width: 100%;
+}
+.forBody{
+    background-color: #15396B;
+    
+}
+.nest{
+    color: #FFFFFF;
+    
+}
+.nestt{
+    color: #FFFFFF;
+    font-size: 14px;
+line-height: 140%;
+font-weight: 400;
+}
+.card{
+    margin-bottom: 4%;
+    background-color: #091E3A;
+    border: none;
+}
+.forfive{
+    margin-left: 5px;
+}
+.img4{
+    margin-left: 24px;
+}
+.forColor{
+    background-color: #15396B;
+    margin-right: 15px;
+}
+.forColorr{
+    background-color: linear-gradient(85.85deg, #2F1861 -8.06%, #122D52 135.19%) !important;
+
+}
+.nest.collin{
+    width: 165px;
+height: 40px;
+margin-left: 20%;
+justify-content: center;
+align-items: center;
+color: black;
+font-size: 15px;
+font-weight: 500;
+}
+.forColorr.nestt{
+    background-color: #22225A;
+}
+.fuel{
+    color: #2E486B;
+    margin-top: 3%;
+    font-size: 18px;
+}
+.myName{
+    background-color: #061427;
+}
+.forMyColor{
+    color: white;
+    font-size: 14px;
+}
+.forSpan{
+    margin-left: 7px;
+}
+
+.cardtext{
+    position: relative;
+width: 440px;
+color: white;
+margin-top: 4%;
+
+} 
+
+@media screen and (min-width: 600px) {
+    .cardtext {
+      font-size: 35px;
+    }
+  }
+
+@media screen and (max-width: 600px) {
+    .cardtext {
+      font-size: 10px;
+    }  
+}
+
+
+.forLorem{
+    font-size: 15px;
+}
+@media screen and (min-width: 600px) {
+    .forLorem {
+      font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .forLorem {
+      font-size: 5px;
+    }  
+}
+
+
+
+.forLoremm{
+    font-size: 15px;
+    margin-top: 43%;
+}
+
+@media screen and (min-width: 600px) {
+    .forLoremm {
+      font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .forLoremm {
+      font-size: 5px;
+    }  
+}
+
+
+
+.colButton{
+    background-color: #051326;
+    color:#F6D34E;
+    font-size: 12px;
+    font-family: 'Montserrat';
+    margin-top: 5%;
+}
+.mainImg{
+    margin-top: 13%;
+}
+
+@media screen and (min-width: 600px) {
+    .mainImg {
+      width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .mainImg {
+      width: 20%
+    }  
+}
+
+@media screen and (min-width: 600px) {
+    .mainImgg {
+      width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .mainImgg {
+      width: 20%
+    }  
+}
+
+
+.colButton:hover{
+    color: rgb(255, 255, 49);
+}
+.imgVector{
+    width: 12%;
+    margin-right: 6px;
+}
+
+
+
+
+@media screen and (min-width: 600px) {
+    .forFooter {
+      font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .forFooter {
+      font-size: 5px;
+    }  
+}
+
+.forSpann{
+    margin-left: 50%;
+}
+
+
+@media screen and (min-width: 600px) {
+    .forSpann {
+      width: 50%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .forSpann {
+      width: 2%;
+    }  
+}
